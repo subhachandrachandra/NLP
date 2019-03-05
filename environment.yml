@@ -1,0 +1,16 @@
+name: nlp
+channels:
+  - conda-forge
+dependencies:
+  - python=3 
+  - pip
+  - gensim
+  - matplotlib
+  - nb_conda
+  - nltk
+  - numpy
+  - pandas
+  - scikit-learn
+  - scipy
+  - seaborn
+
